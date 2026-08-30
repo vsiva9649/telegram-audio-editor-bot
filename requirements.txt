@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+mutagen
+aiosqlite
+pydub
+aiohttp
+aiofiles
